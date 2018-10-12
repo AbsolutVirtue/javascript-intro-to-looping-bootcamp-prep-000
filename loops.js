@@ -30,11 +30,10 @@ function doWhileLoop(array){
 
 var i = 0;
  
-function incrementVariable() {
+function doWhileLoop() {
   i = i + 1;
 }
  
 do {
-  console.log("");
   incrementVariable();
 } while (i < 5);
