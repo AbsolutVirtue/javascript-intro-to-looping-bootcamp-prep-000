@@ -35,6 +35,6 @@ function incrementVariable() {
 }
  
 do {
-  console.log("doo-bee-doo-bee-doo");
+  console.log("");
   incrementVariable();
 } while (i < 5);
