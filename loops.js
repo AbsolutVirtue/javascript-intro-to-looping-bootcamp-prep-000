@@ -19,10 +19,22 @@ function whileLoop(n){
     
   return "done";
 }
-
+//
 function doWhileLoop(array){
   
   
   
   return array
 }
+//
+
+var i = 0;
+ 
+function incrementVariable() {
+  i = i + 1;
+}
+ 
+do {
+  console.log("doo-bee-doo-bee-doo");
+  incrementVariable();
+} while (i < 5);
