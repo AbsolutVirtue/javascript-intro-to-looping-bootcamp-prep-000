@@ -19,21 +19,11 @@ function whileLoop(n){
     
   return "done";
 }
-//
+
 function doWhileLoop(array){
+  function maybeTrue()
   
   
   
   return array
 }
-//
-
-var i = 0;
- 
-function doWhileLoop() {
-  i = i + 1;
-}
- 
-do {
-  incrementVariable();
-} while (i < 5);
